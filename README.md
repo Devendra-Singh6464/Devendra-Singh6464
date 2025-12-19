@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Deepak bandari(Devendra Singh)
+- 👋 Hi, I’m @Deepak Bhandari(Devendra Singh)
 - 👀 I’m interested in DevOps, Cloud Computing, Linux, and Open Source.
-- 🌱 I’m currently learning Ansible, CloudFlare, Gitlab CI/CD
+- 🌱 I’m currently learning Ansible, CloudFlare, Gitlab CI/CD, Kubernetes
+- 
 - 💞️ I want to collaborate on Automation scripts, DevOps tools, and cloud projects.
 - 📫 How to reach me: deepakbhandari.6464@gmail.com
 - 😄 Pronouns: He/Him
