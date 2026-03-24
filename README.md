@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak Bhandari(Devendra Singh)
-- 👀 I’m interested in DevOps, Cloud Computing, Linux, and Open Source.
+- 👀 I’m interested in DevOps, Cloud Computing, Linux, Python programming and Open Source.
 - 🌱 I’m currently learning Ansible, CloudFlare, Gitlab, Jenkins CI/CD, Kubernetes, Python
 - 
 - 💞️ I want to collaborate on Automation scripts, DevOps tools, and cloud projects.
