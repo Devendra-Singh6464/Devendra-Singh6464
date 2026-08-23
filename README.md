@@ -9,14 +9,14 @@ I specialize in managing robust Linux infrastructures and automating complex dep
 ### 🛠️ Technical Stack & Tools
 
 * **OS & Infrastructure:** RHEL 9, Ubuntu, Vagrant, VirtualBox
-* **DevOps & CI/CD:** Jenkins, Docker, Kubernetes (Kind), Ansible
+* **DevOps & CI/CD:** Jenkins, Docker, Kubernetes (Kind), Ansible, AWS, ELK
 * **Networking & Security:** Sophos Firewalls, VPNs, Cloudflare Tunnels, DNSmasq
 * **Development:** Python, Django, Bash Scripting
 
 ### 🌱 Currently Leveling Up
 * **Orchestration:** Advanced Kubernetes patterns and Helm charts.
 * **Automation:** Mastering Ansible playbooks for multi-node deployments.
-* **Cloud:** Expanding Gitlab CI/CD and Cloudflare edge services.
+* **Cloud:** Expanding GitLab CI/CD and Cloudflare edge services.
 
 ### 💞️ Let's Collaborate
 I’m looking to contribute to:
@@ -25,7 +25,7 @@ I’m looking to contribute to:
 * Containerized application deployments.
 
 ### 📫 Connect with Me
-* **Email:** [deepakbhandari.6464@gmail.com](mailto:deepakbhandari.6464@gmail.com)
+* **Email:** [devendra24610@gmail.com](mailto:devendra24610@gmail.com)
 * **Pronouns:** He/Him
 
 ---
