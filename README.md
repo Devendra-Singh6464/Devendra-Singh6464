@@ -25,7 +25,7 @@ I’m looking to contribute to:
 * Containerized application deployments.
 
 ### 📫 Connect with Me
-* **Email:** [devendra24610@gmail.com](mailto:devendra24610@gmail.com)
+* **Email:** [devendra24610@gmail.com](mailto:devendrabhandari1810@gmail.com)
 * **Pronouns:** He/Him
 
 ---
